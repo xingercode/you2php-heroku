@@ -5,5 +5,8 @@
     "ext-mbstring": "*",
     "ext-sqlite3": "*",
     "ext-imagick": "*"
+  },
+   "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
   }
 }
